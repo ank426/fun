@@ -1,4 +1,7 @@
-import os,copy,random
+import copy
+import os
+import random
+
 
 def display(board):
     # os.system('cls')
